@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="RavePlanner" target="login" />
+  <tocitem text="Comprar artículos">
+  		<tocitem text="Añadir artículos a la compra" target="purchase"/>
+   		<tocitem text="Comprobar artículos seleccionados" target="check"/>
+  </tocitem>
+  <tocitem text="Formalizar la compra" target="form" />
+  <tocitem text="Concluir la compra" target="invoice" />
+
+</toc>
